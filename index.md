@@ -15,13 +15,17 @@ schema and operating rules, see [CLAUDE.md](CLAUDE.md).
 
 ## Concepts
 
-_No concepts yet. They appear here, grouped by topic as natural clusters form, as
-sources are ingested._
+### Apprendimento & psicologia cognitiva
+- [Teoria del Carico Cognitivo](wiki/concepts/teoria-del-carico-cognitivo.md) — cos'è il carico cognitivo, i 3 tipi, i 5 pilastri ABCDE, sintomi, bias e tecniche di gestione.
+- [Memoria di lavoro](wiki/concepts/memoria-di-lavoro.md) — il collo di bottiglia mentale: Miller 7±2, chunking, modelli di Atkinson-Shiffrin e Baddeley.
+
+### Knowledge management & produttività
+- [Build a Second Brain (CODE + PARA)](wiki/concepts/build-a-second-brain.md) — il metodo di Tiago Forte per un secondo cervello digitale.
 
 ## Sources
 
-_No sources yet. Drop Markdown files into `raw/inbox/` and run `ingest`._
+- [2026-07-04 — La Teoria del Carico Cognitivo: riflessioni di un dev (codiceplastico.com)](wiki/sources/2026-07-04-teoria-del-carico-cognitivo.md)
 
 ## Open Questions
 
-_None yet._
+- [Ingerire l'articolo IT Revolution su Team Cognitive Load e approfondire Team Topologies?](wiki/questions/ingerire-team-cognitive-load-it-revolution.md) — _open_
